@@ -48,5 +48,5 @@ public:
 		int sisi;
 		cin >> sisi;
 		setX(sisi);
-	}
+	} 
 };
